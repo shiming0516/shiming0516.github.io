@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="王世明，技术美术（角色渲染）。实时着色器实验室：Ramp 光照、脸部 SDF、眼睛视差、闪点、薄片透射、平滑法线描边、VAT 流体等，每个效果都能逐步拆开查看公式与代码。">
+  <meta name="theme-color" content="#1b1c1f">
+  <title>王世明 · 技术美术 / 角色渲染</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 3 27 12 16 29 5 12Z' fill='%23ff9d2b'/%3E%3Cpath d='M5 12h22M11 12l5 17 5-17M11 12l5-9 5 9' stroke='%231b1c1f' stroke-width='1.2' fill='none'/%3E%3C/svg%3E">
+  <script>
+    document.documentElement.classList.add('js');
+    // This source page only runs through the dev server; opened from disk it has no styles or scripts.
+    if (location.protocol === 'file:' && document.currentScript.nextElementSibling?.getAttribute('src') === '/src/main.js') {
+      document.addEventListener('DOMContentLoaded', () => {
+        document.body.innerHTML = '<p style="max-width:34em;margin:20vh auto;padding:0 24px;font:16px/1.8 sans-serif">这是网站的源码页，不能直接双击打开。<br>开发预览：在 site 目录运行 npm run dev，再打开 http://localhost:5210<br>成品：打开 dist/index.html（先运行 npm run build）。</p>';
+      });
+    }
+  </script>
+  <script defer src="./app/index-B33xsV_D.js"></script>
+  <link rel="stylesheet" href="./app/style-ELBGt1JB.css">
+</head>
+<body>
+  <a class="skip" href="#lab">跳到实验室</a>
+
+  <header class="topbar" id="topbar">
+    <a class="brand" href="#top" aria-label="王世明，回到顶部">
+      <svg viewBox="0 0 32 32" width="22" height="22" aria-hidden="true"><path d="M16 3 27 12 16 29 5 12Z"/><path class="cut" d="M5 12h22M11 12l5 17 5-17M11 12l5-9 5 9"/></svg>
+      <span>王世明</span>
+    </a>
+    <nav aria-label="主要导航">
+      <a href="#lab">实验室</a>
+      <a href="#work">项目</a>
+      <a href="#footage">影像</a>
+      <a href="#about">关于</a>
+      <a class="nav-cv" href="assets/resume.pdf" download="王世明_TA渲染简历.pdf">简历 PDF</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero-sticky">
+        <div class="hero-stage" id="hero-stage">
+          <img class="hero-fallback" src="media/gem-4.webp" alt="宝石材质渲染静帧">
+        </div>
+        <div class="hero-copy">
+          <h1 id="hero-title"><span class="line">从一束光，</span><span class="line">到完整的画面。</span></h1>
+          <p class="hero-role">王世明，技术美术。做角色渲染 Shader、TA 工具，以及让画面能够稳定产出的 DCC 渲染流程。</p>
+          <p class="hero-hint">移动指针就是移动主光，拖动可以转动宝石。向下滚动，它会被一步步拆开。</p>
+        </div>
+        <ol class="hero-steps" id="hero-steps" aria-label="宝石的渲染步骤"></ol>
+        <nav class="hero-rail" id="hero-rail" aria-label="跳到某一步"></nav>
+        <div class="hero-controls" aria-label="宝石演示控制">
+          <div class="pass-bar" role="radiogroup" aria-label="查看渲染通道" id="hero-passes"></div>
+          <div class="gem-types" role="radiogroup" aria-label="宝石种类" id="hero-types"></div>
+        </div>
+        <p class="hero-caption">实时渲染：73 个刻面平面围成的凸多面体，逐像素求交，含全内反射、体吸收与三波长色散。</p>
+        <a class="hero-scroll" href="#lab" aria-label="跳过拆解，直接看实验室"><span>向下拆解</span><i aria-hidden="true"></i></a>
+      </div>
+    </section>
+
+    <section class="lab" id="lab" aria-labelledby="lab-title">
+      <div class="section-head">
+        <h2 id="lab-title">实验室</h2>
+        <p>每个效果都是一段在浏览器里实时运行的着色器。卡片显示最终画面，点开后可以逐步查看中间通道、对应公式和代码。这些演示依据原理重新编写，用来说明算法，并非原项目画面。</p>
+      </div>
+      <div class="lab-filter" role="toolbar" aria-label="按主题筛选" id="lab-filter"></div>
+      <div class="lab-grid" id="lab-grid"></div>
+      <noscript><p class="note">实验室需要 JavaScript 与 WebGL。</p></noscript>
+    </section>
+
+    <section class="work" id="work" aria-labelledby="work-title">
+      <div class="section-head">
+        <h2 id="work-title">项目</h2>
+        <p>三个与渲染相关的项目和一个 AI 应用。项目里的技术点都链接到上面实验室中的演示。</p>
+      </div>
+
+      <article class="case" id="workspace" aria-labelledby="ws-title">
+        <header class="case-head">
+          <h3 id="ws-title">渲染空间<span>角色渲染工作台</span></h3>
+          <p class="case-lead">把 MMD / PMX 角色的导入、材质、灯光、动作、物理和输出放进同一个 Blender 工作台，让一次调好的画面能被继续调整、预览和交付。</p>
+        </header>
+        <div class="case-body">
+          <div class="workbench" id="workbench" aria-label="工作台九个模块"></div>
+          <div class="ws-shots" id="ws-shots"></div>
+          <aside class="boundary">
+            <h4>验证边界</h4>
+            <p>模块说明依据界面代码与交接资料归纳。交接记录包含四个角色的短帧输出测试（320×320，3–12 帧）；完整美术匹配、长片和多设备稳定性仍需验证。个人具体职责待确认。</p>
+          </aside>
+        </div>
+      </article>
+
+      <article class="case" id="renderbook" aria-labelledby="rb-title">
+        <header class="case-head">
+          <h3 id="rb-title">RenderBook<span>角色渲染学习手册</span></h3>
+          <p class="case-lead">沿着一帧画面的路径，把一套定制 HDRP 的角色渲染拆成 16 章可以查阅、定位和讨论的分析：从管线结构、光照模型，到皮肤、头发、眼睛、描边、阴影和后处理。</p>
+        </header>
+        <div class="case-body">
+          <div class="rb-map" id="rb-map" aria-label="手册章节地图"></div>
+          <aside class="boundary">
+            <h4>验证边界</h4>
+            <p>依据 Unity 2022.3 与定制 HDRP 源码静态阅读整理，没有在 Unity 中编译或运行验证；个人具体贡献待确认。实验室里对应的演示是按手册描述的原理重写的 WebGL 版本。</p>
+          </aside>
+        </div>
+      </article>
+
+      <article class="case" id="aimmd" aria-labelledby="ai-title">
+        <header class="case-head">
+          <h3 id="ai-title">AIMMD<span>动作驱动的透明图片序列</span></h3>
+          <p class="case-lead">MMD 的动作与镜头决定三维动画；Blender 一次渲染出透明人物与深度、法线、遮罩控制图；AI 只在深度约束下做低强度精修，再合成背景、编码成片。动作与镜头的控制权留在三维链路里。</p>
+        </header>
+        <div class="case-body">
+          <div class="aimmd-flow" id="aimmd-flow"></div>
+          <div class="aimmd-facts" id="aimmd-facts"></div>
+          <div class="aimmd-cut" id="aimmd-cut"></div>
+          <aside class="boundary">
+            <h4>验证边界</h4>
+            <p>全片产物记录为 4847 帧，Alpha 抽查与原渲染一致；逐帧精修相互独立，没有时间一致性约束，固定 seed 不能代替它。四视图身份档案尚未接入 AI；背景合成是二维叠加，接触阴影只是视觉辅助。</p>
+          </aside>
+        </div>
+      </article>
+
+      <article class="case case-compact" id="monci" aria-labelledby="mo-title">
+        <header class="case-head">
+          <h3 id="mo-title">Monci OS<span>让互动故事记得发生过什么</span></h3>
+          <p class="case-lead">故事阅读、角色对话与状态管理共同构成体验：记录读到哪里，允许读者在任意位置插话，再依据状态切换分支或继续叙事。</p>
+        </header>
+        <div class="case-body">
+          <ol class="story-flow" id="story-flow">
+            <li><strong>阅读游标</strong><span>记录当前阅读位置，让故事推进与插话发生的位置对应起来。</span></li>
+            <li><strong>插话与分支</strong><span>阅读过程中插入互动，依据状态切换分支，或回到原叙事继续。</span></li>
+            <li><strong>状态快照与恢复</strong><span>为互动结果保存快照，分支变化与回退时保持状态一致。</span></li>
+          </ol>
+          <aside class="boundary">
+            <h4>验证边界</h4>
+            <p>本地确定性假模型测试覆盖相关运行时行为（10 项通过），不能据此推断真实模型质量、线上延迟或个人独立开发贡献。</p>
+          </aside>
+        </div>
+      </article>
+
+      <article class="case case-compact" id="contest" aria-labelledby="ct-title">
+        <header class="case-head">
+          <h3 id="ct-title">工程实践与创新能力大赛<span>2025 年省级一等奖</span></h3>
+          <p class="case-lead">负责部分美术资产、渲染效果及代码框架与模块逻辑：用 URP 构建 NPR / PBR 风格化渲染，以预积分贴图实现角色皮肤的次表面散射，并用四叉树剔除优化场景。</p>
+        </header>
+        <div class="case-body">
+          <div class="case-links" id="contest-links"></div>
+        </div>
+      </article>
+    </section>
+
+    <section class="footage" id="footage" aria-labelledby="footage-title">
+      <div class="section-head">
+        <h2 id="footage-title">影像</h2>
+        <p>真实渲染的录屏。悬停或点按播放。素材的来源、个人贡献与公开授权仍在逐项核对。</p>
+      </div>
+      <div class="gem-series">
+        <h3>宝石材质的五轮迭代</h3>
+        <p class="series-note">每一轮都在同网格、同镜头运动、固定曝光的条件下做左右对照，只改变一项。</p>
+        <ol class="series" id="gem-series"></ol>
+      </div>
+      <div class="reel" id="reel"></div>
+    </section>
+
+    <section class="about" id="about" aria-labelledby="about-title">
+      <div class="section-head">
+        <h2 id="about-title">关于</h2>
+      </div>
+      <div class="about-grid">
+        <div class="about-bio">
+          <p>西安工业大学数字媒体艺术（数字娱乐方向）本科，2026 年 5 月起在广州诗悦网络科技担任技术美术，从事角色渲染 Shader、角色 TA 工具、资产检测与流程工具开发，以及 DCC 渲染平台的开发维护。</p>
+          <p>我关心一个角色怎样被照亮，也关心一张画面怎样从材质、灯光和动作，走进可以重复的制作流程。</p>
+          <dl class="skills">
+            <div><dt>渲染与引擎</dt><dd>Unity、URP、CG / HLSL、角色 Shader、风格化渲染；了解计算机图形学与 OpenGL</dd></div>
+            <div><dt>开发与资产</dt><dd>C#、Blender、Substance 3D Painter、ZBrush；Python、C++ 入门</dd></div>
+          </dl>
+        </div>
+        <ol class="timeline">
+          <li><time>2026.05 至今</time><strong>广州诗悦网络科技有限公司</strong><span>技术美术</span></li>
+          <li><time>2025.04 – 2025.05</time><strong>中国大学生工程实践与创新能力大赛</strong><span>省级一等奖</span></li>
+          <li><time>2022.09 – 2026.06</time><strong>西安工业大学</strong><span>数字媒体艺术（数字娱乐方向）本科</span></li>
+        </ol>
+        <div class="contact">
+          <h3>期待一起做出好画面</h3>
+          <p>联系方式在简历里。</p>
+          <a class="button" href="assets/resume.pdf" download="王世明_TA渲染简历.pdf">下载简历 PDF</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>本地预览稿。部分素材的公开授权与个人职责仍在核对，正式发布前会逐项确认。</p>
+    <a href="#top">回到顶部</a>
+  </footer>
+
+  <dialog class="detail" id="detail" aria-labelledby="detail-title"></dialog>
+</body>
+</html>
+
