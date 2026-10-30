@@ -1,0 +1,3175 @@
+{
+  "version": 3,
+  "assets": {
+    "media/heroine/workbench/0270b1d19914f1a9.png": "media/heroine/workbench/0270b1d19914f1a9.web.webp",
+    "media/heroine/workbench/0d0f7811c6edb96d.png": "media/heroine/workbench/0d0f7811c6edb96d.web.webp",
+    "media/heroine/workbench/0f4580ed34e20180.png": "media/heroine/workbench/0f4580ed34e20180.web.webp",
+    "media/heroine/workbench/0fe5b0dccb9c86e0.png": "media/heroine/workbench/0fe5b0dccb9c86e0.web.webp",
+    "media/heroine/workbench/15b788c4f1bd32c4.png": "media/heroine/workbench/15b788c4f1bd32c4.web.webp",
+    "media/heroine/workbench/1b597a9ccaec8130.png": "media/heroine/workbench/1b597a9ccaec8130.web.webp",
+    "media/heroine/workbench/2e5c497145e095bf.png": "media/heroine/workbench/2e5c497145e095bf.web.webp",
+    "media/heroine/workbench/2f9e83392d301fe2.png": "media/heroine/workbench/2f9e83392d301fe2.web.webp",
+    "media/heroine/workbench/33750be312f99062.png": "media/heroine/workbench/33750be312f99062.web.webp",
+    "media/heroine/workbench/3eafc0dc89d87035.png": "media/heroine/workbench/3eafc0dc89d87035.web.webp",
+    "media/heroine/workbench/3fccd81827f3ced0.png": "media/heroine/workbench/3fccd81827f3ced0.web.webp",
+    "media/heroine/workbench/42d5729de314f196.png": "media/heroine/workbench/42d5729de314f196.web.webp",
+    "media/heroine/workbench/44a7519dcfee9992.png": "media/heroine/workbench/44a7519dcfee9992.web.webp",
+    "media/heroine/workbench/482555d8021a333d.png": "media/heroine/workbench/482555d8021a333d.web.webp",
+    "media/heroine/workbench/50ce8ae997de99d4.png": "media/heroine/workbench/50ce8ae997de99d4.web.webp",
+    "media/heroine/workbench/5969cd02b975c16f.png": "media/heroine/workbench/5969cd02b975c16f.web.webp",
+    "media/heroine/workbench/630204aa6e5c3a60.png": "media/heroine/workbench/630204aa6e5c3a60.web.webp",
+    "media/heroine/workbench/686ac51ad6821696.png": "media/heroine/workbench/686ac51ad6821696.web.webp",
+    "media/heroine/workbench/757adae1be6c821d.png": "media/heroine/workbench/757adae1be6c821d.web.webp",
+    "media/heroine/workbench/80b0467c8ad52139.png": "media/heroine/workbench/80b0467c8ad52139.web.webp",
+    "media/heroine/workbench/87fb8721a0a3fb84.png": "media/heroine/workbench/87fb8721a0a3fb84.web.webp",
+    "media/heroine/workbench/8bb1824bf7e94448.png": "media/heroine/workbench/8bb1824bf7e94448.web.webp",
+    "media/heroine/workbench/94c0b911824bad2b.png": "media/heroine/workbench/94c0b911824bad2b.web.webp",
+    "media/heroine/workbench/9c04aae5aaf4b662.png": "media/heroine/workbench/9c04aae5aaf4b662.web.webp",
+    "media/heroine/workbench/a135f1a70938e535.png": "media/heroine/workbench/a135f1a70938e535.web.webp",
+    "media/heroine/workbench/b3da171e2cea0c1b.png": "media/heroine/workbench/b3da171e2cea0c1b.web.webp",
+    "media/heroine/workbench/b947c76e1bd3f146.png": "media/heroine/workbench/b947c76e1bd3f146.web.webp",
+    "media/heroine/workbench/b96403b1e16203cc.png": "media/heroine/workbench/b96403b1e16203cc.web.webp",
+    "media/heroine/workbench/bd308e9999c489fc.png": "media/heroine/workbench/bd308e9999c489fc.web.webp",
+    "media/heroine/workbench/cfe79164216d8113.png": "media/heroine/workbench/cfe79164216d8113.web.webp",
+    "media/heroine/workbench/d0f0a76f8400caa0.png": "media/heroine/workbench/d0f0a76f8400caa0.web.webp",
+    "media/heroine/workbench/e19be2edc8819510.png": "media/heroine/workbench/e19be2edc8819510.web.webp",
+    "media/heroine/workbench/ebb24ca0e54eb915.png": "media/heroine/workbench/ebb24ca0e54eb915.web.webp",
+    "media/heroine/workbench/ebb71ea8a96073c1.png": "media/heroine/workbench/ebb71ea8a96073c1.web.webp",
+    "media/heroine/workbench/ece4f2ba890ac0e6.png": "media/heroine/workbench/ece4f2ba890ac0e6.web.webp",
+    "media/heroine/workbench/fa114e1110134235.png": "media/heroine/workbench/fa114e1110134235.web.webp",
+    "media/role-b/workbench/03ddbe8716214b3d.png": "media/role-b/workbench/03ddbe8716214b3d.web.webp",
+    "media/role-b/workbench/08ac1dabf385d26d.png": "media/role-b/workbench/08ac1dabf385d26d.web.webp",
+    "media/role-b/workbench/0964d4c9341da233.png": "media/role-b/workbench/0964d4c9341da233.web.webp",
+    "media/role-b/workbench/0ecf13edfba08ae2.png": "media/role-b/workbench/0ecf13edfba08ae2.web.webp",
+    "media/role-b/workbench/11d2c4f2a6baff86.png": "media/role-b/workbench/11d2c4f2a6baff86.web.webp",
+    "media/role-b/workbench/268c2db061b95f71.png": "media/role-b/workbench/268c2db061b95f71.web.webp",
+    "media/role-b/workbench/2d3492c58d485746.png": "media/role-b/workbench/2d3492c58d485746.web.webp",
+    "media/role-b/workbench/3161089ffe24e863.png": "media/role-b/workbench/3161089ffe24e863.web.webp",
+    "media/role-b/workbench/31b71eeadffe92f8.png": "media/role-b/workbench/31b71eeadffe92f8.web.webp",
+    "media/role-b/workbench/34bddb5a8be809c5.png": "media/role-b/workbench/34bddb5a8be809c5.web.webp",
+    "media/role-b/workbench/361245c5c811f846.png": "media/role-b/workbench/361245c5c811f846.web.webp",
+    "media/role-b/workbench/369291bad711d84d.png": "media/role-b/workbench/369291bad711d84d.web.webp",
+    "media/role-b/workbench/3af7cc2c89ffb60c.png": "media/role-b/workbench/3af7cc2c89ffb60c.web.webp",
+    "media/role-b/workbench/42fc7056ee71956e.png": "media/role-b/workbench/42fc7056ee71956e.web.webp",
+    "media/role-b/workbench/4a36a76f7fcae5eb.png": "media/role-b/workbench/4a36a76f7fcae5eb.web.webp",
+    "media/role-b/workbench/4f5f2de2bb198d4f.png": "media/role-b/workbench/4f5f2de2bb198d4f.web.webp",
+    "media/role-b/workbench/5353ad8ee5ea23a2.png": "media/role-b/workbench/5353ad8ee5ea23a2.web.webp",
+    "media/role-b/workbench/567a79c642c06672.png": "media/role-b/workbench/567a79c642c06672.web.webp",
+    "media/role-b/workbench/5a4e09186e69b021.png": "media/role-b/workbench/5a4e09186e69b021.web.webp",
+    "media/role-b/workbench/72013df69b4f6976.png": "media/role-b/workbench/72013df69b4f6976.web.webp",
+    "media/role-b/workbench/72dcf74f47bc91b4.png": "media/role-b/workbench/72dcf74f47bc91b4.web.webp",
+    "media/role-b/workbench/757a508dd172c62e.png": "media/role-b/workbench/757a508dd172c62e.web.webp",
+    "media/role-b/workbench/76cb515641fdf90c.png": "media/role-b/workbench/76cb515641fdf90c.web.webp",
+    "media/role-b/workbench/7bf941e0cc5e8e2c.png": "media/role-b/workbench/7bf941e0cc5e8e2c.web.webp",
+    "media/role-b/workbench/7fb05957fcdb0ec8.png": "media/role-b/workbench/7fb05957fcdb0ec8.web.webp",
+    "media/role-b/workbench/828938720cf48f9f.png": "media/role-b/workbench/828938720cf48f9f.web.webp",
+    "media/role-b/workbench/83a57eeda2c887d1.png": "media/role-b/workbench/83a57eeda2c887d1.web.webp",
+    "media/role-b/workbench/863fb1d39e39fa6b.png": "media/role-b/workbench/863fb1d39e39fa6b.web.webp",
+    "media/role-b/workbench/8dfedb7dbf3cd6df.png": "media/role-b/workbench/8dfedb7dbf3cd6df.web.webp",
+    "media/role-b/workbench/9466f38db348563a.png": "media/role-b/workbench/9466f38db348563a.web.webp",
+    "media/role-b/workbench/96c2f91f968a45a1.png": "media/role-b/workbench/96c2f91f968a45a1.web.webp",
+    "media/role-b/workbench/a42ab0725177aa0a.png": "media/role-b/workbench/a42ab0725177aa0a.web.webp",
+    "media/role-b/workbench/a4f449547861d096.png": "media/role-b/workbench/a4f449547861d096.web.webp",
+    "media/role-b/workbench/a7bb52d0da5aa5ee.png": "media/role-b/workbench/a7bb52d0da5aa5ee.web.webp",
+    "media/role-b/workbench/b4d9983d1a3e2023.png": "media/role-b/workbench/b4d9983d1a3e2023.web.webp",
+    "media/role-b/workbench/b6b7df408bea7913.png": "media/role-b/workbench/b6b7df408bea7913.web.webp",
+    "media/role-b/workbench/b96403b1e16203cc.png": "media/role-b/workbench/b96403b1e16203cc.web.webp",
+    "media/role-b/workbench/c01e034ab4de9461.png": "media/role-b/workbench/c01e034ab4de9461.web.webp",
+    "media/role-b/workbench/c4911b60faf072e9.png": "media/role-b/workbench/c4911b60faf072e9.web.webp",
+    "media/role-b/workbench/e06a8b7951cdc040.png": "media/role-b/workbench/e06a8b7951cdc040.web.webp",
+    "media/role-b/workbench/e63143a200d2347f.png": "media/role-b/workbench/e63143a200d2347f.web.webp",
+    "media/role-b/workbench/ea21097040b32f0f.png": "media/role-b/workbench/ea21097040b32f0f.web.webp",
+    "media/role-b/workbench/f874a82a5da8da14.png": "media/role-b/workbench/f874a82a5da8da14.web.webp",
+    "media/role-b/workbench/fb42577031f85284.png": "media/role-b/workbench/fb42577031f85284.web.webp",
+    "media/role-c/workbench/075c46ed19b04dc9.png": "media/role-c/workbench/075c46ed19b04dc9.web.webp",
+    "media/role-c/workbench/0b8cb47eeb81b142.png": "media/role-c/workbench/0b8cb47eeb81b142.web.webp",
+    "media/role-c/workbench/0c76d971b97d8064.png": "media/role-c/workbench/0c76d971b97d8064.web.webp",
+    "media/role-c/workbench/0f03df78a5eb5758.png": "media/role-c/workbench/0f03df78a5eb5758.web.webp",
+    "media/role-c/workbench/18436810fce8a489.png": "media/role-c/workbench/18436810fce8a489.web.webp",
+    "media/role-c/workbench/1b1ddf21a49eb88d.png": "media/role-c/workbench/1b1ddf21a49eb88d.web.webp",
+    "media/role-c/workbench/1d935b94c7f388f5.png": "media/role-c/workbench/1d935b94c7f388f5.web.webp",
+    "media/role-c/workbench/1fbc3b1ce96b32e4.png": "media/role-c/workbench/1fbc3b1ce96b32e4.web.webp",
+    "media/role-c/workbench/2fabe24ae6b0c58f.png": "media/role-c/workbench/2fabe24ae6b0c58f.web.webp",
+    "media/role-c/workbench/347ae3536d8c2f08.png": "media/role-c/workbench/347ae3536d8c2f08.web.webp",
+    "media/role-c/workbench/38ece9e51c8809f8.png": "media/role-c/workbench/38ece9e51c8809f8.web.webp",
+    "media/role-c/workbench/3bfdc93138fff8f7.png": "media/role-c/workbench/3bfdc93138fff8f7.web.webp",
+    "media/role-c/workbench/41a498018c9e605c.png": "media/role-c/workbench/41a498018c9e605c.web.webp",
+    "media/role-c/workbench/454688d236a44558.png": "media/role-c/workbench/454688d236a44558.web.webp",
+    "media/role-c/workbench/4c2a72ef0c7f6dfe.png": "media/role-c/workbench/4c2a72ef0c7f6dfe.web.webp",
+    "media/role-c/workbench/4edbfd22e7a0c80a.png": "media/role-c/workbench/4edbfd22e7a0c80a.web.webp",
+    "media/role-c/workbench/51301f26586557bd.png": "media/role-c/workbench/51301f26586557bd.web.webp",
+    "media/role-c/workbench/567a79c642c06672.png": "media/role-c/workbench/567a79c642c06672.web.webp",
+    "media/role-c/workbench/607aba1777e346f9.png": "media/role-c/workbench/607aba1777e346f9.web.webp",
+    "media/role-c/workbench/6b961a3b43c5df65.png": "media/role-c/workbench/6b961a3b43c5df65.web.webp",
+    "media/role-c/workbench/6f33395e1f2702a6.png": "media/role-c/workbench/6f33395e1f2702a6.web.webp",
+    "media/role-c/workbench/777bcea66f10aedd.png": "media/role-c/workbench/777bcea66f10aedd.web.webp",
+    "media/role-c/workbench/7a207a7f871f9189.png": "media/role-c/workbench/7a207a7f871f9189.web.webp",
+    "media/role-c/workbench/85c60a8007ef2f03.png": "media/role-c/workbench/85c60a8007ef2f03.web.webp",
+    "media/role-c/workbench/85d045354c25a322.png": "media/role-c/workbench/85d045354c25a322.web.webp",
+    "media/role-c/workbench/87dfe1cf6243888f.png": "media/role-c/workbench/87dfe1cf6243888f.web.webp",
+    "media/role-c/workbench/8b150b8ca4d2d1ff.png": "media/role-c/workbench/8b150b8ca4d2d1ff.web.webp",
+    "media/role-c/workbench/8d2b188e54cc7c3e.png": "media/role-c/workbench/8d2b188e54cc7c3e.web.webp",
+    "media/role-c/workbench/8d489392a5aa58b0.png": "media/role-c/workbench/8d489392a5aa58b0.web.webp",
+    "media/role-c/workbench/8eeda5d6db61e627.png": "media/role-c/workbench/8eeda5d6db61e627.web.webp",
+    "media/role-c/workbench/99e9e96aac824719.png": "media/role-c/workbench/99e9e96aac824719.web.webp",
+    "media/role-c/workbench/a0add0b33e20e765.png": "media/role-c/workbench/a0add0b33e20e765.web.webp",
+    "media/role-c/workbench/a530a341992cbca1.png": "media/role-c/workbench/a530a341992cbca1.web.webp",
+    "media/role-c/workbench/aa594e1b8ddfe377.png": "media/role-c/workbench/aa594e1b8ddfe377.web.webp",
+    "media/role-c/workbench/ac88c99afc20a68c.png": "media/role-c/workbench/ac88c99afc20a68c.web.webp",
+    "media/role-c/workbench/b718b2691d577d4d.png": "media/role-c/workbench/b718b2691d577d4d.web.webp",
+    "media/role-c/workbench/b9c87acda1e4255b.png": "media/role-c/workbench/b9c87acda1e4255b.web.webp",
+    "media/role-c/workbench/c43526f3df89cddd.png": "media/role-c/workbench/c43526f3df89cddd.web.webp",
+    "media/role-c/workbench/c51321a9dbbf7171.png": "media/role-c/workbench/c51321a9dbbf7171.web.webp",
+    "media/role-c/workbench/cb143d1024ae77f3.png": "media/role-c/workbench/cb143d1024ae77f3.web.webp",
+    "media/role-c/workbench/d115fda9c30080e5.png": "media/role-c/workbench/d115fda9c30080e5.web.webp",
+    "media/role-c/workbench/d11d9fcd5ed4590f.png": "media/role-c/workbench/d11d9fcd5ed4590f.web.webp",
+    "media/role-c/workbench/d14d511d8b19a7f8.png": "media/role-c/workbench/d14d511d8b19a7f8.web.webp",
+    "media/role-c/workbench/d710f3c7c71efa75.png": "media/role-c/workbench/d710f3c7c71efa75.web.webp",
+    "media/role-c/workbench/e3b644c88cd170fd.png": "media/role-c/workbench/e3b644c88cd170fd.web.webp",
+    "media/role-c/workbench/e473a018de9b8baa.png": "media/role-c/workbench/e473a018de9b8baa.web.webp",
+    "media/role-c/workbench/e4a6e126868d6be2.png": "media/role-c/workbench/e4a6e126868d6be2.web.webp",
+    "media/role-c/workbench/e764ef246e6a2ce7.png": "media/role-c/workbench/e764ef246e6a2ce7.web.webp",
+    "media/role-c/workbench/f044d1d944ece217.png": "media/role-c/workbench/f044d1d944ece217.web.webp",
+    "media/role-c/workbench/f120ec193b676742.png": "media/role-c/workbench/f120ec193b676742.web.webp",
+    "media/role-c/workbench/f2c51d0339ed437a.png": "media/role-c/workbench/f2c51d0339ed437a.web.webp",
+    "media/role-c/workbench/ff465fa67a44389d.png": "media/role-c/workbench/ff465fa67a44389d.web.webp",
+    "media/role-d/workbench/0228a5aaac50485c.png": "media/role-d/workbench/0228a5aaac50485c.web.webp",
+    "media/role-d/workbench/04b9b9a234ee6cee.png": "media/role-d/workbench/04b9b9a234ee6cee.web.webp",
+    "media/role-d/workbench/0f1698c2822a1901.png": "media/role-d/workbench/0f1698c2822a1901.web.webp",
+    "media/role-d/workbench/14f5bf55ff5b955f.png": "media/role-d/workbench/14f5bf55ff5b955f.web.webp",
+    "media/role-d/workbench/17b6b60e72951022.png": "media/role-d/workbench/17b6b60e72951022.web.webp",
+    "media/role-d/workbench/1b5e672a55b6bb69.png": "media/role-d/workbench/1b5e672a55b6bb69.web.webp",
+    "media/role-d/workbench/225044f7f1cc5db5.png": "media/role-d/workbench/225044f7f1cc5db5.web.webp",
+    "media/role-d/workbench/24312bdb2ef515b3.png": "media/role-d/workbench/24312bdb2ef515b3.web.webp",
+    "media/role-d/workbench/285f8b27ccdaedca.png": "media/role-d/workbench/285f8b27ccdaedca.web.webp",
+    "media/role-d/workbench/3ca31fb16d1db2aa.png": "media/role-d/workbench/3ca31fb16d1db2aa.web.webp",
+    "media/role-d/workbench/46fdbed9db7128cb.png": "media/role-d/workbench/46fdbed9db7128cb.web.webp",
+    "media/role-d/workbench/497e61917f229771.png": "media/role-d/workbench/497e61917f229771.web.webp",
+    "media/role-d/workbench/49c2721c18a42236.png": "media/role-d/workbench/49c2721c18a42236.web.webp",
+    "media/role-d/workbench/4c00b7f4dc7582ab.png": "media/role-d/workbench/4c00b7f4dc7582ab.web.webp",
+    "media/role-d/workbench/59a4b02da9ea2b1f.png": "media/role-d/workbench/59a4b02da9ea2b1f.web.webp",
+    "media/role-d/workbench/5c232e8c6b3be283.png": "media/role-d/workbench/5c232e8c6b3be283.web.webp",
+    "media/role-d/workbench/6bd7c10fb62ef572.png": "media/role-d/workbench/6bd7c10fb62ef572.web.webp",
+    "media/role-d/workbench/6d6c066c32f55e7c.png": "media/role-d/workbench/6d6c066c32f55e7c.web.webp",
+    "media/role-d/workbench/6ea80ec6d670b98f.png": "media/role-d/workbench/6ea80ec6d670b98f.web.webp",
+    "media/role-d/workbench/72807663dbe9bcfa.png": "media/role-d/workbench/72807663dbe9bcfa.web.webp",
+    "media/role-d/workbench/72e422f41a0d62c0.png": "media/role-d/workbench/72e422f41a0d62c0.web.webp",
+    "media/role-d/workbench/73e064d18eca0b38.png": "media/role-d/workbench/73e064d18eca0b38.web.webp",
+    "media/role-d/workbench/7fb1c4ddee83afcb.png": "media/role-d/workbench/7fb1c4ddee83afcb.web.webp",
+    "media/role-d/workbench/87ac82a1014ca1fc.png": "media/role-d/workbench/87ac82a1014ca1fc.web.webp",
+    "media/role-d/workbench/a35e85cc76fe3eb2.png": "media/role-d/workbench/a35e85cc76fe3eb2.web.webp",
+    "media/role-d/workbench/b124e0905782a95c.png": "media/role-d/workbench/b124e0905782a95c.web.webp",
+    "media/role-d/workbench/b1df70bb56c2bfc4.png": "media/role-d/workbench/b1df70bb56c2bfc4.web.webp",
+    "media/role-d/workbench/b6bda934dfdb77d7.png": "media/role-d/workbench/b6bda934dfdb77d7.web.webp",
+    "media/role-d/workbench/b70f5dc39dd626f6.png": "media/role-d/workbench/b70f5dc39dd626f6.web.webp",
+    "media/role-d/workbench/b96403b1e16203cc.png": "media/role-d/workbench/b96403b1e16203cc.web.webp",
+    "media/role-d/workbench/bcd857d4120c4bfd.png": "media/role-d/workbench/bcd857d4120c4bfd.web.webp",
+    "media/role-d/workbench/c114156711b4c275.png": "media/role-d/workbench/c114156711b4c275.web.webp",
+    "media/role-d/workbench/c2cd570de0ad3fab.png": "media/role-d/workbench/c2cd570de0ad3fab.web.webp",
+    "media/role-d/workbench/d13cdf50f75bd766.png": "media/role-d/workbench/d13cdf50f75bd766.web.webp",
+    "media/role-d/workbench/d50ddb39dd50f5ed.png": "media/role-d/workbench/d50ddb39dd50f5ed.web.webp",
+    "media/role-d/workbench/d723a244c36d84d6.png": "media/role-d/workbench/d723a244c36d84d6.web.webp",
+    "media/role-d/workbench/d76fa53d20e61eb9.png": "media/role-d/workbench/d76fa53d20e61eb9.web.webp",
+    "media/role-d/workbench/d8cc3d71f867298e.png": "media/role-d/workbench/d8cc3d71f867298e.web.webp",
+    "media/role-d/workbench/d91fa1aa2c5d6e20.png": "media/role-d/workbench/d91fa1aa2c5d6e20.web.webp",
+    "media/role-d/workbench/dae13397d30b52c7.png": "media/role-d/workbench/dae13397d30b52c7.web.webp",
+    "media/role-d/workbench/e554e9e38bd93a59.png": "media/role-d/workbench/e554e9e38bd93a59.web.webp",
+    "media/role-d/workbench/ebb24ca0e54eb915.png": "media/role-d/workbench/ebb24ca0e54eb915.web.webp",
+    "media/role-d/workbench/f157087458da47ea.png": "media/role-d/workbench/f157087458da47ea.web.webp",
+    "media/role-d/workbench/fff96285f1701580.png": "media/role-d/workbench/fff96285f1701580.web.webp"
+  },
+  "verified": {
+    "media/heroine/workbench/0270b1d19914f1a9.png": {
+      "sourceSHA256": "46875ee61a27e4ba89405d75ddb30bd2ba88086d4ba2f3dac545e5371501a923",
+      "sourceBytes": 5786802,
+      "outputBytes": 486096,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/0d0f7811c6edb96d.png": {
+      "sourceSHA256": "d0aa674bacbebc47c4fd3c04723ff03f759efb769272de151ce807f9d2eaffb5",
+      "sourceBytes": 443,
+      "outputBytes": 266,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/heroine/workbench/0f4580ed34e20180.png": {
+      "sourceSHA256": "9c2072a660721a2913e3f230789625830d981c3fef5f6ecfb9c32af377e37ecc",
+      "sourceBytes": 29016,
+      "outputBytes": 16390,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/heroine/workbench/0fe5b0dccb9c86e0.png": {
+      "sourceSHA256": "0470dcf524198f933edf3e74638cc8d98d6362f02644996c7a56a4b6f08d6ff7",
+      "sourceBytes": 23185,
+      "outputBytes": 14656,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/heroine/workbench/15b788c4f1bd32c4.png": {
+      "sourceSHA256": "d9b6321fb6bc912be3608a113a0e641d69f0e0c368ed51ac392708ca676fa2e1",
+      "sourceBytes": 56679,
+      "outputBytes": 45146,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/heroine/workbench/1b597a9ccaec8130.png": {
+      "sourceSHA256": "62f45e863f5a503aa89666e6b79bd23ff28b20cda600066a3916bb4c0702f39c",
+      "sourceBytes": 4859930,
+      "outputBytes": 283960,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/2e5c497145e095bf.png": {
+      "sourceSHA256": "7bfb36e875f0e026a67b320c8be66ba43c595a1cbe0de5ead4ac624944d2ce5c",
+      "sourceBytes": 3373881,
+      "outputBytes": 523242,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/heroine/workbench/2f9e83392d301fe2.png": {
+      "sourceSHA256": "f28c53cfba78f51759f0714c3be4b3451fedd63ee6ba8b8c37fde89997548cca",
+      "sourceBytes": 1279222,
+      "outputBytes": 103548,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/33750be312f99062.png": {
+      "sourceSHA256": "eb070adcb70029b073ba973858bb95c0c4bbfa32b5108fc6eca5f41154c6c019",
+      "sourceBytes": 9728061,
+      "outputBytes": 1763104,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/heroine/workbench/3eafc0dc89d87035.png": {
+      "sourceSHA256": "63dfaa6d3cd5f1a88a4f8c55391c0474ea5b53a28b90430d564e3625b7bbb28e",
+      "sourceBytes": 5280020,
+      "outputBytes": 1386836,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/heroine/workbench/3fccd81827f3ced0.png": {
+      "sourceSHA256": "954ae72b55abe835e14b6aea1f6f92d839c3a508748430387cf549ed1ffb61a6",
+      "sourceBytes": 37342,
+      "outputBytes": 3344,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        232,
+        232
+      ],
+      "deliveryDimensions": [
+        232,
+        232
+      ]
+    },
+    "media/heroine/workbench/42d5729de314f196.png": {
+      "sourceSHA256": "a5faca63501609cc3b7001de4b4655faf951f044ea89727a179584ad3d4266fb",
+      "sourceBytes": 888,
+      "outputBytes": 644,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        512,
+        2
+      ],
+      "deliveryDimensions": [
+        512,
+        2
+      ]
+    },
+    "media/heroine/workbench/44a7519dcfee9992.png": {
+      "sourceSHA256": "fa429cbbc3a72bd836a92088acd438ef0d5def828e44a028000836acbde681c4",
+      "sourceBytes": 1395427,
+      "outputBytes": 53866,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/482555d8021a333d.png": {
+      "sourceSHA256": "42cbda2b7680cdf7829541752fe4b42a53a05ba38b6e998a45044399a2aa44e9",
+      "sourceBytes": 5457785,
+      "outputBytes": 228072,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/50ce8ae997de99d4.png": {
+      "sourceSHA256": "3653b027efc73a178153c5c795033d04cd56e9a4b58921e6a1479b64a1933db3",
+      "sourceBytes": 4500531,
+      "outputBytes": 2452430,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/5969cd02b975c16f.png": {
+      "sourceSHA256": "67989d75cbbc780358f2c97ca3ebda39a0563c2afc0712c31071a8bd3c59f31d",
+      "sourceBytes": 3950883,
+      "outputBytes": 2263364,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/630204aa6e5c3a60.png": {
+      "sourceSHA256": "83c903628b4c8ed7a5321194c3c3fb5d9219a444907bb8eca4ed2a51e143af0b",
+      "sourceBytes": 1105,
+      "outputBytes": 814,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/heroine/workbench/686ac51ad6821696.png": {
+      "sourceSHA256": "f0bce851906ec3ae1a7b55c174fc9dff35210393ab55b3107480e285e28e1e4c",
+      "sourceBytes": 8321274,
+      "outputBytes": 1719534,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/heroine/workbench/757adae1be6c821d.png": {
+      "sourceSHA256": "38126100744a0431503d09781cd0d9f13d7954e79f529d35d076cb1faec83c28",
+      "sourceBytes": 5350332,
+      "outputBytes": 267184,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/80b0467c8ad52139.png": {
+      "sourceSHA256": "a581827cdb4632474f6857eeedd62e2ece9d5ba61c727d72e02ce3eadb5c0346",
+      "sourceBytes": 448,
+      "outputBytes": 296,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/heroine/workbench/87fb8721a0a3fb84.png": {
+      "sourceSHA256": "0a393e7d1ec4c3c28b10778f1119ed1396904efc6f108c47da2637efaa6ce2e4",
+      "sourceBytes": 1208438,
+      "outputBytes": 422432,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "complexion"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/8bb1824bf7e94448.png": {
+      "sourceSHA256": "f28c53cfba78f51759f0714c3be4b3451fedd63ee6ba8b8c37fde89997548cca",
+      "sourceBytes": 1279222,
+      "outputBytes": 103548,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/94c0b911824bad2b.png": {
+      "sourceSHA256": "7e403ac8a89e53ed07dfd789afebdec908c7b2c6485c8d4304c4ab294844c092",
+      "sourceBytes": 609040,
+      "outputBytes": 283372,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "sdf"
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/heroine/workbench/9c04aae5aaf4b662.png": {
+      "sourceSHA256": "df3b91e54d5a2f14413ff12df12b263b9af5ef67d0811a40f24d4a7c0a65f4eb",
+      "sourceBytes": 4275934,
+      "outputBytes": 2323996,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        2222,
+        2222
+      ],
+      "deliveryDimensions": [
+        2222,
+        2222
+      ]
+    },
+    "media/heroine/workbench/a135f1a70938e535.png": {
+      "sourceSHA256": "bb698e05920bff4dcf466b75309754c0a61d85196006e3760771d3774299be63",
+      "sourceBytes": 414,
+      "outputBytes": 162,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/heroine/workbench/b3da171e2cea0c1b.png": {
+      "sourceSHA256": "f79aa4ae060c859ddd255f3d8a02af4a3070d88fe07cd6785018d26e12a5ac70",
+      "sourceBytes": 1381882,
+      "outputBytes": 591220,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/b947c76e1bd3f146.png": {
+      "sourceSHA256": "8db7fb026d291930bfe1795edef4f60d0feffcf00a1b54af416f30582b724494",
+      "sourceBytes": 242102,
+      "outputBytes": 8836,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/heroine/workbench/b96403b1e16203cc.png": {
+      "sourceSHA256": "b9311e14ba22acca22ca42ce0e109dbda91b22951b9586516de034dd06de0fa8",
+      "sourceBytes": 112350,
+      "outputBytes": 38224,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "eyeOpticsMask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/heroine/workbench/bd308e9999c489fc.png": {
+      "sourceSHA256": "d2da04b08adeb02ba9583a0cdffbea6c9eb430aa8d795e96ba00f67673f24514",
+      "sourceBytes": 60222,
+      "outputBytes": 5272,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        225,
+        225
+      ],
+      "deliveryDimensions": [
+        225,
+        225
+      ]
+    },
+    "media/heroine/workbench/cfe79164216d8113.png": {
+      "sourceSHA256": "a413d97eb14c967a296605bc80cec978b8462bc144ef24e67a7ebc0445f97174",
+      "sourceBytes": 93524,
+      "outputBytes": 5716,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/heroine/workbench/d0f0a76f8400caa0.png": {
+      "sourceSHA256": "c6a6672a08a6f7026781dedff5937381f69d8a72818cc6027faf549bb97ec177",
+      "sourceBytes": 2958689,
+      "outputBytes": 1356218,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/e19be2edc8819510.png": {
+      "sourceSHA256": "e27c064b966f32ee8f6716a703eca5815a9dae20db33eae7978ab842d3397ad0",
+      "sourceBytes": 6784531,
+      "outputBytes": 880294,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/heroine/workbench/ebb24ca0e54eb915.png": {
+      "sourceSHA256": "5daf526763b316da6f639afcdee765c7673de13e5c9ddf91c21954cbdb801b88",
+      "sourceBytes": 37342,
+      "outputBytes": 17012,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "shape"
+      ],
+      "sourceDimensions": [
+        512,
+        256
+      ],
+      "deliveryDimensions": [
+        512,
+        256
+      ]
+    },
+    "media/heroine/workbench/ebb71ea8a96073c1.png": {
+      "sourceSHA256": "7adc5be41a7779bd0626658c021e496615bb9d6fb057345fcbdd994576e74c74",
+      "sourceBytes": 959,
+      "outputBytes": 656,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/heroine/workbench/ece4f2ba890ac0e6.png": {
+      "sourceSHA256": "c08ac0ab6c2f893d59d81c2c15bf176cf173550ed81e6114bcfb7f08a1f70ea1",
+      "sourceBytes": 1015,
+      "outputBytes": 802,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/heroine/workbench/fa114e1110134235.png": {
+      "sourceSHA256": "59904064ba08ae4370d6e472428754246226a37fdd385dc893d43cef306b4dd6",
+      "sourceBytes": 54523,
+      "outputBytes": 19942,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "specRamp"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-b/workbench/03ddbe8716214b3d.png": {
+      "sourceSHA256": "81f5906fc37ceaf7e860115278809096cf6c8dfecd7a88038ee1cb640f987d86",
+      "sourceBytes": 5736327,
+      "outputBytes": 3283706,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/08ac1dabf385d26d.png": {
+      "sourceSHA256": "122b10c7b58ea25a0789c8b3a87e7c922004b54833cc4181e43b5f4007c7e96e",
+      "sourceBytes": 5363330,
+      "outputBytes": 1093720,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/0964d4c9341da233.png": {
+      "sourceSHA256": "11a54efae00a5de5a0b42be6fdeea7a82b7ae8388c2fad12a6347626a5977a6d",
+      "sourceBytes": 4175512,
+      "outputBytes": 1105262,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/0ecf13edfba08ae2.png": {
+      "sourceSHA256": "b32fa3ea3374873c391d045e68421fd7a5c121453cc41ad8c5a5a90941075942",
+      "sourceBytes": 96112,
+      "outputBytes": 5404,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/11d2c4f2a6baff86.png": {
+      "sourceSHA256": "ce684f5ed3b4cc9e96cc0e96aa81e47ac0dd03f116a3570221e5e04c2ed432c0",
+      "sourceBytes": 4516638,
+      "outputBytes": 192578,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/268c2db061b95f71.png": {
+      "sourceSHA256": "677dafe564cb4976f0a9e7f51724217d13e699206721fc08e893410e370104cf",
+      "sourceBytes": 1551417,
+      "outputBytes": 81094,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/2d3492c58d485746.png": {
+      "sourceSHA256": "59b3f15dfcb4cdd9f5f0c2c9bc7a8d41f5e6f0a5d808d010022c95ece8c8fb26",
+      "sourceBytes": 1997699,
+      "outputBytes": 812720,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "complexion"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/3161089ffe24e863.png": {
+      "sourceSHA256": "72423772bc576f26ca812294a2a0dbe452afa9b51c94356d076d720cbfd3b219",
+      "sourceBytes": 244,
+      "outputBytes": 118,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        1,
+        1
+      ],
+      "deliveryDimensions": [
+        1,
+        1
+      ]
+    },
+    "media/role-b/workbench/31b71eeadffe92f8.png": {
+      "sourceSHA256": "d9eeba3971d99c11c19efe722e16a23f99f9fa15347e7bfc25d5800b80eb2f8c",
+      "sourceBytes": 5042054,
+      "outputBytes": 2776030,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/34bddb5a8be809c5.png": {
+      "sourceSHA256": "9835d396e672455d313096277ecf2ff0812400c2e34862a4839ea775a63ff50f",
+      "sourceBytes": 1111276,
+      "outputBytes": 126932,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/361245c5c811f846.png": {
+      "sourceSHA256": "bb698e05920bff4dcf466b75309754c0a61d85196006e3760771d3774299be63",
+      "sourceBytes": 414,
+      "outputBytes": 162,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-b/workbench/369291bad711d84d.png": {
+      "sourceSHA256": "341442f6771be0b8e70de109105c1f4fe18222e66d4395199fc49f1cbc83aebd",
+      "sourceBytes": 1349614,
+      "outputBytes": 636280,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/3af7cc2c89ffb60c.png": {
+      "sourceSHA256": "b5868a98b91c4730e8059eda844efd0890a8da37dace10400a5e4f9443e28ca5",
+      "sourceBytes": 301,
+      "outputBytes": 158,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        128,
+        1
+      ],
+      "deliveryDimensions": [
+        128,
+        1
+      ]
+    },
+    "media/role-b/workbench/42fc7056ee71956e.png": {
+      "sourceSHA256": "9bd50160fe4afdc0b71f85813f6c4b2b2d88f28be56ba4eb6a02f7ef4a14359e",
+      "sourceBytes": 1768,
+      "outputBytes": 1420,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-b/workbench/4a36a76f7fcae5eb.png": {
+      "sourceSHA256": "37bcb39e05486e156e6a58d7ff8c987fbdd35ff74ba9d7d8a6360236cf76f31f",
+      "sourceBytes": 5953812,
+      "outputBytes": 587084,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/4f5f2de2bb198d4f.png": {
+      "sourceSHA256": "753850ade821b65c7d27bbd238be174d7c40c795d6e87a9a4a9884cfe7a0dfda",
+      "sourceBytes": 242,
+      "outputBytes": 114,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        1,
+        1
+      ],
+      "deliveryDimensions": [
+        1,
+        1
+      ]
+    },
+    "media/role-b/workbench/5353ad8ee5ea23a2.png": {
+      "sourceSHA256": "dbf42cc60a8be9dd04afd5d0c788930ba0771f96d09b6da49b3a2e259338d813",
+      "sourceBytes": 1342781,
+      "outputBytes": 91914,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/567a79c642c06672.png": {
+      "sourceSHA256": "c16ff3fbb056bb072f781ab79d46a398328949f4fd4eae71573ce9389f500ee1",
+      "sourceBytes": 38147,
+      "outputBytes": 17096,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "shape"
+      ],
+      "sourceDimensions": [
+        512,
+        256
+      ],
+      "deliveryDimensions": [
+        512,
+        256
+      ]
+    },
+    "media/role-b/workbench/5a4e09186e69b021.png": {
+      "sourceSHA256": "7c5666d8893cd39eab6d74aba553d907343ee52d3116a408745a3248fed51cbc",
+      "sourceBytes": 3232197,
+      "outputBytes": 362314,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/72013df69b4f6976.png": {
+      "sourceSHA256": "b18f3c801ff700acfb8271e1b5fa50a982288e958fe3c673ab552a6e7ee07d42",
+      "sourceBytes": 2814756,
+      "outputBytes": 361708,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/72dcf74f47bc91b4.png": {
+      "sourceSHA256": "4d64b6aaaf7b6d32346345b36fd573cd4777f7bc48e478c4a140177e26d7434b",
+      "sourceBytes": 6018199,
+      "outputBytes": 1191528,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/757a508dd172c62e.png": {
+      "sourceSHA256": "bdb37756cc7a078bf29b2415ad6903001dab7c5a2ac741eade2b36e30aac788d",
+      "sourceBytes": 8872925,
+      "outputBytes": 1768738,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/76cb515641fdf90c.png": {
+      "sourceSHA256": "f82c59a09d67bc34f4a4acec871fff6b12d0df4f9daee5b65bc4023974fcb2af",
+      "sourceBytes": 482,
+      "outputBytes": 298,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-b/workbench/7bf941e0cc5e8e2c.png": {
+      "sourceSHA256": "88998c5b1c6618b973233e31bf9936cebfbaf22bd69364b9d8a24a6104d21e76",
+      "sourceBytes": 244,
+      "outputBytes": 116,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        1,
+        1
+      ],
+      "deliveryDimensions": [
+        1,
+        1
+      ]
+    },
+    "media/role-b/workbench/7fb05957fcdb0ec8.png": {
+      "sourceSHA256": "1684756c43409cf10f12dcb89dcaa316f1cbe0c473201a447259f303c2fee4d3",
+      "sourceBytes": 6440285,
+      "outputBytes": 1351800,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/828938720cf48f9f.png": {
+      "sourceSHA256": "2369f0faf712dc50a397051f28c758389e23f1fcec1128f01af3373ede27eb49",
+      "sourceBytes": 6231132,
+      "outputBytes": 517616,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/83a57eeda2c887d1.png": {
+      "sourceSHA256": "b6a675da815ffe30799483215aff2b087998993c41ed18986414565d978dad97",
+      "sourceBytes": 465656,
+      "outputBytes": 12298,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/863fb1d39e39fa6b.png": {
+      "sourceSHA256": "7088664ff4674034c7e35ae3586805cdcf90f7652ea4aeb5d52f95a76cbf02a3",
+      "sourceBytes": 8478026,
+      "outputBytes": 1619862,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/8dfedb7dbf3cd6df.png": {
+      "sourceSHA256": "ec11f84f8752b64fdb43696eb629f586a0050db13fbfb1c12ce3e26ffd2ac215",
+      "sourceBytes": 553,
+      "outputBytes": 380,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-b/workbench/9466f38db348563a.png": {
+      "sourceSHA256": "d699c08ee2ac61457a67f9ed0d3bdaa3d5ae395770a8dde7dcaede1b2ca3e2f1",
+      "sourceBytes": 398,
+      "outputBytes": 274,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-b/workbench/96c2f91f968a45a1.png": {
+      "sourceSHA256": "91ce5de1819b2aaf934cb10f48bfb3c66c7e496ede6235deb0b01de32144c959",
+      "sourceBytes": 407138,
+      "outputBytes": 163892,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/a42ab0725177aa0a.png": {
+      "sourceSHA256": "188265e78312dda9c2c5bef0e6d29d8f9a77fc2780ce484ca43c50cc028f8e14",
+      "sourceBytes": 3709850,
+      "outputBytes": 1946196,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/a4f449547861d096.png": {
+      "sourceSHA256": "e4f3a3319d87cec16a5e1b52bb2fb6b32ed8583000e6d2fef7e304da94a76f97",
+      "sourceBytes": 2987107,
+      "outputBytes": 232926,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/a7bb52d0da5aa5ee.png": {
+      "sourceSHA256": "5c318035027d297926b880156f84a2d1e13ab48b11851954160f8e08a0504167",
+      "sourceBytes": 158806,
+      "outputBytes": 10286,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        386,
+        386
+      ],
+      "deliveryDimensions": [
+        386,
+        386
+      ]
+    },
+    "media/role-b/workbench/b4d9983d1a3e2023.png": {
+      "sourceSHA256": "d1a6fd3d49d82fd956a4059fa297dbd3936597cf288cb9168073a354c5702d1f",
+      "sourceBytes": 7094,
+      "outputBytes": 508,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-b/workbench/b6b7df408bea7913.png": {
+      "sourceSHA256": "e818061e03bbae7017c93fd0f94d6decdb18b315750179cb6194468e743f0414",
+      "sourceBytes": 440296,
+      "outputBytes": 189160,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "sdf"
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-b/workbench/b96403b1e16203cc.png": {
+      "sourceSHA256": "b9311e14ba22acca22ca42ce0e109dbda91b22951b9586516de034dd06de0fa8",
+      "sourceBytes": 112350,
+      "outputBytes": 38224,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "eyeOpticsMask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-b/workbench/c01e034ab4de9461.png": {
+      "sourceSHA256": "417b4282ff452f54e34328bc9d52570e3712293fd34032c012c3e4863d4d3675",
+      "sourceBytes": 13186,
+      "outputBytes": 3402,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "specRamp"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-b/workbench/c4911b60faf072e9.png": {
+      "sourceSHA256": "0a37a02afd890d6c3b30783cad367884cc81ea3100b6f098daa9b15881639317",
+      "sourceBytes": 4655068,
+      "outputBytes": 2599564,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/e06a8b7951cdc040.png": {
+      "sourceSHA256": "64d1a7ed095457baea3736067a925cb3aec8c26d02633a1c845b33d764d2483f",
+      "sourceBytes": 1258443,
+      "outputBytes": 105822,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/e63143a200d2347f.png": {
+      "sourceSHA256": "c8e1fefef3eeca5b6f24bc7b9f6f208349580f49a125bc4a769f627785245b3a",
+      "sourceBytes": 476,
+      "outputBytes": 310,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-b/workbench/ea21097040b32f0f.png": {
+      "sourceSHA256": "9c2072a660721a2913e3f230789625830d981c3fef5f6ecfb9c32af377e37ecc",
+      "sourceBytes": 29016,
+      "outputBytes": 16390,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/role-b/workbench/f874a82a5da8da14.png": {
+      "sourceSHA256": "7801f85ec6a764b14c5c83be482e8895db983247703b7ceb7c7d961a64af5b38",
+      "sourceBytes": 5813999,
+      "outputBytes": 545936,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-b/workbench/fb42577031f85284.png": {
+      "sourceSHA256": "d176af179960f2741eb00d5962e5038eb8230c57f5a9b566e8d87adf6550d12a",
+      "sourceBytes": 3417423,
+      "outputBytes": 167282,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        2220,
+        2220
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/075c46ed19b04dc9.png": {
+      "sourceSHA256": "76587f67a9cd67c408102335ef11acd8415f4abace8bd6ef9bd41c9575b76cfc",
+      "sourceBytes": 3752365,
+      "outputBytes": 1933128,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        2222,
+        2222
+      ],
+      "deliveryDimensions": [
+        2222,
+        2222
+      ]
+    },
+    "media/role-c/workbench/0b8cb47eeb81b142.png": {
+      "sourceSHA256": "43fbd8ee239bf3a3bc88c515c290ba2a7a93e958c8e5b2b5a199ebe58277bc84",
+      "sourceBytes": 5291221,
+      "outputBytes": 1131822,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/0c76d971b97d8064.png": {
+      "sourceSHA256": "6ebedaff9d009f5e42f81a14b908b0c4225795144df2db64dc5ae18248c10ec8",
+      "sourceBytes": 7269867,
+      "outputBytes": 1749898,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/0f03df78a5eb5758.png": {
+      "sourceSHA256": "37d1a8f7f6f67657a50fab6b81ca4d672739dbd55c88e0a1c6186faee88f7206",
+      "sourceBytes": 1600410,
+      "outputBytes": 138298,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/18436810fce8a489.png": {
+      "sourceSHA256": "d176af179960f2741eb00d5962e5038eb8230c57f5a9b566e8d87adf6550d12a",
+      "sourceBytes": 3417423,
+      "outputBytes": 167282,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        2220,
+        2220
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/1b1ddf21a49eb88d.png": {
+      "sourceSHA256": "5f94de43f6cf670db21cd2cf44caee486a27e22b334710b4f8652896f6994bbe",
+      "sourceBytes": 108412,
+      "outputBytes": 23558,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/1d935b94c7f388f5.png": {
+      "sourceSHA256": "89f7f781b39e50e53773985710be81ee762c7c14fef0762d81c11fb5fbcb1d73",
+      "sourceBytes": 3042511,
+      "outputBytes": 517206,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/1fbc3b1ce96b32e4.png": {
+      "sourceSHA256": "ddd2847687e3a7863b5f73dfb4ee614f9677373bfb37c1208e750cb62046e910",
+      "sourceBytes": 41684,
+      "outputBytes": 5378,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        236,
+        236
+      ],
+      "deliveryDimensions": [
+        236,
+        236
+      ]
+    },
+    "media/role-c/workbench/2fabe24ae6b0c58f.png": {
+      "sourceSHA256": "a8a792df5cfb95c9e8303f9865d515f11bd40fba70461c2a42ec49c874a2a625",
+      "sourceBytes": 87706,
+      "outputBytes": 3684,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/347ae3536d8c2f08.png": {
+      "sourceSHA256": "03227933d935b12fc4d8c6c2dfb9246c5c6f3952c4d042d10aa1e715812712c7",
+      "sourceBytes": 2038,
+      "outputBytes": 1554,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-c/workbench/38ece9e51c8809f8.png": {
+      "sourceSHA256": "53fb23de46a41f7506a8392fd635e1658cb7de7adfb45b2c106151ed43b8283c",
+      "sourceBytes": 442,
+      "outputBytes": 266,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-c/workbench/3bfdc93138fff8f7.png": {
+      "sourceSHA256": "423297972d47f91a96aab7d4612255bad38eb86bc398f836e0c223002ccf8338",
+      "sourceBytes": 6971,
+      "outputBytes": 986,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "specRamp"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-c/workbench/41a498018c9e605c.png": {
+      "sourceSHA256": "4b28579f482c0c344f8edc15b46b5bfb1c53b4e0cbcff8526080ed96866f0bd6",
+      "sourceBytes": 3242343,
+      "outputBytes": 257660,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/454688d236a44558.png": {
+      "sourceSHA256": "f972a9e8430d6b95141125ee5ec1b34fbb6eb40786b9a124efb2fef5c333eb9e",
+      "sourceBytes": 5449639,
+      "outputBytes": 645364,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/4c2a72ef0c7f6dfe.png": {
+      "sourceSHA256": "5565049e1649f25bc94457c2d3b72df195f8b1b8dee2808d9b0506c8c2bb5d0c",
+      "sourceBytes": 3371366,
+      "outputBytes": 1769884,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/4edbfd22e7a0c80a.png": {
+      "sourceSHA256": "0498f78e4bd9d3e8aece10d5380442999ea8e79ee25cea0bb28dbd115fd486eb",
+      "sourceBytes": 138703,
+      "outputBytes": 59834,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-c/workbench/51301f26586557bd.png": {
+      "sourceSHA256": "41316bcc03613385c74cbd8104dcde3ad15539d0ffa8b58f0eea584b9ca89e11",
+      "sourceBytes": 61271,
+      "outputBytes": 5310,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        225,
+        225
+      ],
+      "deliveryDimensions": [
+        225,
+        225
+      ]
+    },
+    "media/role-c/workbench/567a79c642c06672.png": {
+      "sourceSHA256": "c16ff3fbb056bb072f781ab79d46a398328949f4fd4eae71573ce9389f500ee1",
+      "sourceBytes": 38147,
+      "outputBytes": 17096,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "shape"
+      ],
+      "sourceDimensions": [
+        512,
+        256
+      ],
+      "deliveryDimensions": [
+        512,
+        256
+      ]
+    },
+    "media/role-c/workbench/607aba1777e346f9.png": {
+      "sourceSHA256": "f355cc7a14b479df1f5f339590944af2d05a93b8ab77112894edb3093d17fd31",
+      "sourceBytes": 6847,
+      "outputBytes": 5076,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        1000,
+        10
+      ],
+      "deliveryDimensions": [
+        1000,
+        10
+      ]
+    },
+    "media/role-c/workbench/6b961a3b43c5df65.png": {
+      "sourceSHA256": "f0bddc8426d165a886ad6ba4cb44c0854854bb0f1a6931791790ae45dc291858",
+      "sourceBytes": 7749578,
+      "outputBytes": 1649510,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/6f33395e1f2702a6.png": {
+      "sourceSHA256": "bb698e05920bff4dcf466b75309754c0a61d85196006e3760771d3774299be63",
+      "sourceBytes": 414,
+      "outputBytes": 162,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-c/workbench/777bcea66f10aedd.png": {
+      "sourceSHA256": "71240edcde833ab3de7e43c9ffe0ba2f029ba1f4ca900a3c53926896e28346e0",
+      "sourceBytes": 3984362,
+      "outputBytes": 2288042,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/7a207a7f871f9189.png": {
+      "sourceSHA256": "6ebedaff9d009f5e42f81a14b908b0c4225795144df2db64dc5ae18248c10ec8",
+      "sourceBytes": 7269867,
+      "outputBytes": 1749898,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/85c60a8007ef2f03.png": {
+      "sourceSHA256": "698a5de344a57799226d4c3318095191ceb337fe1225f950fde2bdfbe4dc7d15",
+      "sourceBytes": 3905225,
+      "outputBytes": 2205364,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/85d045354c25a322.png": {
+      "sourceSHA256": "88c01c8effbc8c6766c9cff0450c3461cee3625c0038d2f7ab858f799f24daf6",
+      "sourceBytes": 8299233,
+      "outputBytes": 1646026,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/87dfe1cf6243888f.png": {
+      "sourceSHA256": "b4462f789749750f1cc4b1e3d078d4c85d18ddc60389191e2143f47b0eebe54c",
+      "sourceBytes": 4125414,
+      "outputBytes": 2229840,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/8b150b8ca4d2d1ff.png": {
+      "sourceSHA256": "4e79579bca666511d26e5cd89a979c6f4545a51f22d4fad2e5dce352c07b4476",
+      "sourceBytes": 485,
+      "outputBytes": 330,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-c/workbench/8d2b188e54cc7c3e.png": {
+      "sourceSHA256": "a90534b99d87d8a20e8a03480920f3486d9eb9e67d9781299b89cb854f655eaa",
+      "sourceBytes": 6581085,
+      "outputBytes": 374322,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/8d489392a5aa58b0.png": {
+      "sourceSHA256": "404800daa558b99e81aa0e910f29e0be2942a0a8ac9beeb70ffaad5c08e55971",
+      "sourceBytes": 1017695,
+      "outputBytes": 37882,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/8eeda5d6db61e627.png": {
+      "sourceSHA256": "e41d08b788da332082d795d07c9dcf730d886360ea9c8a9fd65e7ab124138614",
+      "sourceBytes": 7200,
+      "outputBytes": 558,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-c/workbench/99e9e96aac824719.png": {
+      "sourceSHA256": "4696c9fe80810057b31b5806584fb6d5f5fd20743aad9d04e634cc3595514ae0",
+      "sourceBytes": 1952187,
+      "outputBytes": 44978,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/a0add0b33e20e765.png": {
+      "sourceSHA256": "4e79579bca666511d26e5cd89a979c6f4545a51f22d4fad2e5dce352c07b4476",
+      "sourceBytes": 485,
+      "outputBytes": 330,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-c/workbench/a530a341992cbca1.png": {
+      "sourceSHA256": "493d1bc50d570e645064c8a11742dc56e9e94cbd50c1b939be03122ea23ccd7f",
+      "sourceBytes": 154385,
+      "outputBytes": 46240,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/aa594e1b8ddfe377.png": {
+      "sourceSHA256": "cc78329bd8ea778fb7c0cae557dd41b752ce633a5db8279b78d1d726d90f0962",
+      "sourceBytes": 1479,
+      "outputBytes": 1144,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-c/workbench/ac88c99afc20a68c.png": {
+      "sourceSHA256": "8aa3494354f80f1970cf5683ba6d7365fbf6ba39f0d8f2ce699337e882e04701",
+      "sourceBytes": 372,
+      "outputBytes": 234,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-c/workbench/b718b2691d577d4d.png": {
+      "sourceSHA256": "b4462f789749750f1cc4b1e3d078d4c85d18ddc60389191e2143f47b0eebe54c",
+      "sourceBytes": 4125414,
+      "outputBytes": 2229840,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/b9c87acda1e4255b.png": {
+      "sourceSHA256": "0b259aef66c8096c001de1f5161d2434681c0991ebd21b17c7b470573d3b6175",
+      "sourceBytes": 4658304,
+      "outputBytes": 388080,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/c43526f3df89cddd.png": {
+      "sourceSHA256": "2e7737e36d528d99587ee0cb9960243fbda9c20071fe3dd54315638943bd2b33",
+      "sourceBytes": 508624,
+      "outputBytes": 200846,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "sdf"
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/c51321a9dbbf7171.png": {
+      "sourceSHA256": "e0b2a63b4e00d109ce5a9d96d53b12e4f24e8d8a9b527aef8833200136caea94",
+      "sourceBytes": 500,
+      "outputBytes": 332,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-c/workbench/cb143d1024ae77f3.png": {
+      "sourceSHA256": "93297d725bd21007ec3092c4300be8a122cb10ac5a757380477eabda60099e99",
+      "sourceBytes": 37150,
+      "outputBytes": 3608,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        232,
+        232
+      ],
+      "deliveryDimensions": [
+        232,
+        232
+      ]
+    },
+    "media/role-c/workbench/d115fda9c30080e5.png": {
+      "sourceSHA256": "fb57648a70b1a603a73465f9f2de73228935a601ac4e565d2b8dfd0deb11d369",
+      "sourceBytes": 32318,
+      "outputBytes": 19940,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/role-c/workbench/d11d9fcd5ed4590f.png": {
+      "sourceSHA256": "f81c64759188cc2679012169a59a73bd9db60f2851dfdc1e329ce3783bf686b2",
+      "sourceBytes": 5129020,
+      "outputBytes": 1547548,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-c/workbench/d14d511d8b19a7f8.png": {
+      "sourceSHA256": "1c807106c943c25ca06e0bc7e166db2dd5e27d04c0a36c57f02b3bc3b65de881",
+      "sourceBytes": 355950,
+      "outputBytes": 23544,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        800,
+        800
+      ],
+      "deliveryDimensions": [
+        800,
+        800
+      ]
+    },
+    "media/role-c/workbench/d710f3c7c71efa75.png": {
+      "sourceSHA256": "7f2c3129bd927009d26a17d3a360f8fbbd2b9dcd235d09f05f5255c884fdfca3",
+      "sourceBytes": 188027,
+      "outputBytes": 12078,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        386,
+        386
+      ],
+      "deliveryDimensions": [
+        386,
+        386
+      ]
+    },
+    "media/role-c/workbench/e3b644c88cd170fd.png": {
+      "sourceSHA256": "f972a9e8430d6b95141125ee5ec1b34fbb6eb40786b9a124efb2fef5c333eb9e",
+      "sourceBytes": 5449639,
+      "outputBytes": 645364,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/e473a018de9b8baa.png": {
+      "sourceSHA256": "41f39574108410cdc88d53187a1471d0cb098e9e0f182c00de31fc1219916016",
+      "sourceBytes": 5006112,
+      "outputBytes": 342464,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/e4a6e126868d6be2.png": {
+      "sourceSHA256": "12ae9ee9bcde966a8fcc31d2376a63109d5ca30359c4ae03b5459e6bd01a66bb",
+      "sourceBytes": 3834175,
+      "outputBytes": 1911482,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/e764ef246e6a2ce7.png": {
+      "sourceSHA256": "b9311e14ba22acca22ca42ce0e109dbda91b22951b9586516de034dd06de0fa8",
+      "sourceBytes": 112350,
+      "outputBytes": 38224,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "eyeOpticsMask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-c/workbench/f044d1d944ece217.png": {
+      "sourceSHA256": "d907279762d2b224f7b265c23ea1ca29d6c5a0d0c975938220754babfb9271ea",
+      "sourceBytes": 211613,
+      "outputBytes": 117040,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-c/workbench/f120ec193b676742.png": {
+      "sourceSHA256": "04ffd9c3227d850131fb5010959bfcfd099ab2b4e92ce7cc0be8893e277aa2b4",
+      "sourceBytes": 1596442,
+      "outputBytes": 83594,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/f2c51d0339ed437a.png": {
+      "sourceSHA256": "f7aa2f2682a0403bdbcc614b3fa93cb39b7bb1e8ecf80fba29ffb3e4e466ef33",
+      "sourceBytes": 6117347,
+      "outputBytes": 401908,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-c/workbench/ff465fa67a44389d.png": {
+      "sourceSHA256": "8204ac0c06bf9199f7917633124743b5b62c0d2f624b8b1841516cf963e73e49",
+      "sourceBytes": 835794,
+      "outputBytes": 275926,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "complexion"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/0228a5aaac50485c.png": {
+      "sourceSHA256": "8a2e7ab44cf41ecb37590fecbfa3675cef3918e927f9dcf58afde46671bea637",
+      "sourceBytes": 2725149,
+      "outputBytes": 1249310,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/04b9b9a234ee6cee.png": {
+      "sourceSHA256": "502563bbc6643e07b08362488b845b171dbf54ddd2a32f5832bbbf2c214dede7",
+      "sourceBytes": 5159057,
+      "outputBytes": 533442,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/0f1698c2822a1901.png": {
+      "sourceSHA256": "3d93776c1dffd006714d520e4936edc871c512a9e2b678dffa529d875a101bfe",
+      "sourceBytes": 5961139,
+      "outputBytes": 693636,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/14f5bf55ff5b955f.png": {
+      "sourceSHA256": "c4b78e0e6e9c0639555521c0149a09f234c10137b90cf2a0fc24c766d34a189e",
+      "sourceBytes": 2287930,
+      "outputBytes": 83788,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/17b6b60e72951022.png": {
+      "sourceSHA256": "2322e5362309610ca5892fa9fe0af8940e193e716fc72a3d4cffe4b7e9ff6b69",
+      "sourceBytes": 6030267,
+      "outputBytes": 665126,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/1b5e672a55b6bb69.png": {
+      "sourceSHA256": "8caa62b2f57aca0f872565856d52b5f567786ba3d30dd9e9d66ec12a914b9cdb",
+      "sourceBytes": 220625,
+      "outputBytes": 11098,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-d/workbench/225044f7f1cc5db5.png": {
+      "sourceSHA256": "9166c2b033807ce6b8da4e916ea3af0d2e0810bd0329f51c494333880dea9c26",
+      "sourceBytes": 7156,
+      "outputBytes": 1022,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "specRamp"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-d/workbench/24312bdb2ef515b3.png": {
+      "sourceSHA256": "7c47aad7584d3e7acbea37a2ba37c0d5df854aa83d6506d39eeba9e094d181ba",
+      "sourceBytes": 3270828,
+      "outputBytes": 1596800,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/285f8b27ccdaedca.png": {
+      "sourceSHA256": "61827db2759d5cf150b303b5dde5053bc3aa8b5624ae0c98500a65ceeb5febd5",
+      "sourceBytes": 5194,
+      "outputBytes": 4178,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        256,
+        40
+      ],
+      "deliveryDimensions": [
+        256,
+        40
+      ]
+    },
+    "media/role-d/workbench/3ca31fb16d1db2aa.png": {
+      "sourceSHA256": "9ee3a808b89fc884db112f465fbef211bef04dbd4de0fedbf7cd8161a5bc12f9",
+      "sourceBytes": 195549,
+      "outputBytes": 13260,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        504,
+        504
+      ],
+      "deliveryDimensions": [
+        504,
+        504
+      ]
+    },
+    "media/role-d/workbench/46fdbed9db7128cb.png": {
+      "sourceSHA256": "ce9bdc2f7d44f7da9eed0108f080451d78cddfce9ab6674b7894958d7296584a",
+      "sourceBytes": 5931910,
+      "outputBytes": 1537278,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-d/workbench/497e61917f229771.png": {
+      "sourceSHA256": "5c318035027d297926b880156f84a2d1e13ab48b11851954160f8e08a0504167",
+      "sourceBytes": 158806,
+      "outputBytes": 10286,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        386,
+        386
+      ],
+      "deliveryDimensions": [
+        386,
+        386
+      ]
+    },
+    "media/role-d/workbench/49c2721c18a42236.png": {
+      "sourceSHA256": "2af4316c75b9a3a6a51a0a4352c1e2cec781150006af9800fcd143643aeab1d3",
+      "sourceBytes": 385,
+      "outputBytes": 232,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "irid"
+      ],
+      "sourceDimensions": [
+        128,
+        1
+      ],
+      "deliveryDimensions": [
+        128,
+        1
+      ]
+    },
+    "media/role-d/workbench/4c00b7f4dc7582ab.png": {
+      "sourceSHA256": "5f050880075c04e078b3592435c7c147c400bc2a2e8daad5d8ea1393cb9f7386",
+      "sourceBytes": 62520,
+      "outputBytes": 43824,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/role-d/workbench/59a4b02da9ea2b1f.png": {
+      "sourceSHA256": "9bb8f33df3c47d68a8d0d85492a3ac9645c17ca52c7274199968eee2fe78f39f",
+      "sourceBytes": 1079920,
+      "outputBytes": 350992,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "complexion"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/5c232e8c6b3be283.png": {
+      "sourceSHA256": "bb698e05920bff4dcf466b75309754c0a61d85196006e3760771d3774299be63",
+      "sourceBytes": 414,
+      "outputBytes": 162,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-d/workbench/6bd7c10fb62ef572.png": {
+      "sourceSHA256": "3be3cfd4c973840b4f35e11bcffaebb3b40ff73308c350b778e32172e1528771",
+      "sourceBytes": 10256876,
+      "outputBytes": 1613500,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-d/workbench/6d6c066c32f55e7c.png": {
+      "sourceSHA256": "c0f2d9e787096406060a8ed035579dbaa3284d05b257929b12e1bcee3596ce0e",
+      "sourceBytes": 4594370,
+      "outputBytes": 373162,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/6ea80ec6d670b98f.png": {
+      "sourceSHA256": "1d7f778cd4b029ad1fdd3dc9692bebe04dbd0cc1ac798753debfd97b5c7d1a1d",
+      "sourceBytes": 35402,
+      "outputBytes": 3524,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        232,
+        232
+      ],
+      "deliveryDimensions": [
+        232,
+        232
+      ]
+    },
+    "media/role-d/workbench/72807663dbe9bcfa.png": {
+      "sourceSHA256": "37b39c7836db0fff81ccedd23dd65547e71b4e326f65adc68aca31d5576ed5ec",
+      "sourceBytes": 1078,
+      "outputBytes": 782,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-d/workbench/72e422f41a0d62c0.png": {
+      "sourceSHA256": "3405750644326e79969020eed216178a1021ee1d1479078221d94f2443fcd8c7",
+      "sourceBytes": 4152731,
+      "outputBytes": 656292,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-d/workbench/73e064d18eca0b38.png": {
+      "sourceSHA256": "13e45bb1e259530ffe1d62b508f52b5d77a612298f5bb7fed39d1bd173ca4f98",
+      "sourceBytes": 241385,
+      "outputBytes": 60332,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/7fb1c4ddee83afcb.png": {
+      "sourceSHA256": "2322e5362309610ca5892fa9fe0af8940e193e716fc72a3d4cffe4b7e9ff6b69",
+      "sourceBytes": 6030267,
+      "outputBytes": 665126,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/87ac82a1014ca1fc.png": {
+      "sourceSHA256": "418944f70a6a89638e155c8fb819f536176f01e1f86300e139f198b43ec52468",
+      "sourceBytes": 440,
+      "outputBytes": 268,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-d/workbench/a35e85cc76fe3eb2.png": {
+      "sourceSHA256": "48867cbe79d5f47a827359b74a4892180e73f2fefcb33a354440e9259b2e8265",
+      "sourceBytes": 9385683,
+      "outputBytes": 1665436,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-d/workbench/b124e0905782a95c.png": {
+      "sourceSHA256": "b64574d8b46acad95ab81b63cefb44d5c20db2f4aaa1636fd1b400d6fd91745e",
+      "sourceBytes": 195398,
+      "outputBytes": 47222,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "filmMask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/b1df70bb56c2bfc4.png": {
+      "sourceSHA256": "d49cc0a5df25c3aff1bf7ef2b2f665af991accefe71686b17655d9ce14f7e1d9",
+      "sourceBytes": 492,
+      "outputBytes": 324,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    },
+    "media/role-d/workbench/b6bda934dfdb77d7.png": {
+      "sourceSHA256": "cd53471f4c49f3f81a9e573c5d1d95fbf2866140109adb1625ebe5a37242ee20",
+      "sourceBytes": 1977,
+      "outputBytes": 1558,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-d/workbench/b70f5dc39dd626f6.png": {
+      "sourceSHA256": "2e0fd9e86b9d072445a0743cbbcb1eafcd2c06a505cc8f96fc7c6e478879abd5",
+      "sourceBytes": 5138780,
+      "outputBytes": 530124,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/b96403b1e16203cc.png": {
+      "sourceSHA256": "b9311e14ba22acca22ca42ce0e109dbda91b22951b9586516de034dd06de0fa8",
+      "sourceBytes": 112350,
+      "outputBytes": 38224,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "eyeOpticsMask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-d/workbench/bcd857d4120c4bfd.png": {
+      "sourceSHA256": "6d2905701c59eb3e4cc73e3ac9c24c6ba85de6274e64a2b89445f71c3bed50fe",
+      "sourceBytes": 8429496,
+      "outputBytes": 1884166,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        1024,
+        1024
+      ]
+    },
+    "media/role-d/workbench/c114156711b4c275.png": {
+      "sourceSHA256": "e90d8a471916af40ba27dc7faa53e77a2fa55aa28e1d62cd5692b0453a61166f",
+      "sourceBytes": 1122398,
+      "outputBytes": 86928,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/c2cd570de0ad3fab.png": {
+      "sourceSHA256": "f1dde28599a39f340073d46aaf52e53a11384718c8b524cff4c8363db202d77f",
+      "sourceBytes": 4435143,
+      "outputBytes": 2276780,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/d13cdf50f75bd766.png": {
+      "sourceSHA256": "3d1cfa60a8ea703bac6aa55356e0de65fcb2310a37d56c1b64709e9eb4864eb4",
+      "sourceBytes": 2655761,
+      "outputBytes": 240126,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/d50ddb39dd50f5ed.png": {
+      "sourceSHA256": "642a87bf9b015de3cb206350b06b3d6dee9115da258e8ee18c61d402cd248738",
+      "sourceBytes": 6944,
+      "outputBytes": 768,
+      "profile": "spatial-lossless-1024",
+      "slots": [
+        "mask"
+      ],
+      "sourceDimensions": [
+        512,
+        512
+      ],
+      "deliveryDimensions": [
+        512,
+        512
+      ]
+    },
+    "media/role-d/workbench/d723a244c36d84d6.png": {
+      "sourceSHA256": "d3fd3ffb648795ef89bda5269eb826cbe5695714d79aa5a286a81a6612c6a56d",
+      "sourceBytes": 2330204,
+      "outputBytes": 966360,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "sdf"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/d76fa53d20e61eb9.png": {
+      "sourceSHA256": "ff6883950fa564b848aa885dc6c396f20d19fd08bef44932db180e4fae454e24",
+      "sourceBytes": 3869893,
+      "outputBytes": 2309610,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "light"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/d8cc3d71f867298e.png": {
+      "sourceSHA256": "cb2c27742a7ee66b58a37f425f3956b198468f7820b9b19748c0f5cc81c8794d",
+      "sourceBytes": 2097,
+      "outputBytes": 1718,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        20
+      ],
+      "deliveryDimensions": [
+        256,
+        20
+      ]
+    },
+    "media/role-d/workbench/d91fa1aa2c5d6e20.png": {
+      "sourceSHA256": "5b8c2550513e81cedda6e563839a58f94ee38c1ad32e5091efbae223a6c7dcb5",
+      "sourceBytes": 23106,
+      "outputBytes": 14360,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "lut"
+      ],
+      "sourceDimensions": [
+        1024,
+        32
+      ],
+      "deliveryDimensions": [
+        1024,
+        32
+      ]
+    },
+    "media/role-d/workbench/dae13397d30b52c7.png": {
+      "sourceSHA256": "502563bbc6643e07b08362488b845b171dbf54ddd2a32f5832bbbf2c214dede7",
+      "sourceBytes": 5159057,
+      "outputBytes": 533442,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/e554e9e38bd93a59.png": {
+      "sourceSHA256": "baae46daeee336f4274072b1f54bc26f7bed12d2d7c28b56053ed741f9e394c0",
+      "sourceBytes": 5751662,
+      "outputBytes": 432440,
+      "profile": "color-webp-q88",
+      "slots": [
+        "base"
+      ],
+      "sourceDimensions": [
+        2048,
+        2048
+      ],
+      "deliveryDimensions": [
+        2048,
+        2048
+      ]
+    },
+    "media/role-d/workbench/ebb24ca0e54eb915.png": {
+      "sourceSHA256": "5daf526763b316da6f639afcdee765c7673de13e5c9ddf91c21954cbdb801b88",
+      "sourceBytes": 37342,
+      "outputBytes": 17012,
+      "profile": "spatial-lossless-2048",
+      "slots": [
+        "shape"
+      ],
+      "sourceDimensions": [
+        512,
+        256
+      ],
+      "deliveryDimensions": [
+        512,
+        256
+      ]
+    },
+    "media/role-d/workbench/f157087458da47ea.png": {
+      "sourceSHA256": "f490f524afd0cbc5731c6d9b9fdc9991bf2fbdbf14d8e0c029a5906f9c43e3ff",
+      "sourceBytes": 213998,
+      "outputBytes": 16692,
+      "profile": "color-webp-q88",
+      "slots": [
+        "matcap"
+      ],
+      "sourceDimensions": [
+        386,
+        386
+      ],
+      "deliveryDimensions": [
+        386,
+        386
+      ]
+    },
+    "media/role-d/workbench/fff96285f1701580.png": {
+      "sourceSHA256": "c3ac0d09345161aa9c44d1669a7fcc4e26af80f57b08a7b9c3fecb2c5f81445a",
+      "sourceBytes": 497,
+      "outputBytes": 330,
+      "profile": "lookup-lossless-original",
+      "slots": [
+        "ramp"
+      ],
+      "sourceDimensions": [
+        256,
+        1
+      ],
+      "deliveryDimensions": [
+        256,
+        1
+      ]
+    }
+  }
+}
