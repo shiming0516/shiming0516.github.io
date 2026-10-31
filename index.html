@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
+  <script>(()=>{const p={"ramp":{"desktop":"previews/ramp-detail-desktop-989c0a89eef1.webp","mobile":"previews/ramp-detail-mobile-be68172f47d2.webp","compact":"previews/ramp-detail-compact-23ec1d56c9b3.webp"},"face-sdf":{"desktop":"previews/face-sdf-detail-desktop-b4a3ecec9f8a.webp","mobile":"previews/face-sdf-detail-mobile-ba102f21003f.webp","compact":"previews/face-sdf-detail-compact-5ca003a0c868.webp"},"eye-parallax":{"desktop":"previews/eye-parallax-detail-desktop-feca7e5d4e41.webp","mobile":"previews/eye-parallax-detail-mobile-d86beca39a94.webp","compact":"previews/eye-parallax-detail-compact-7daa38e5a9bc.webp"},"hair-kk":{"desktop":"previews/hair-kk-detail-desktop-93aa645d7226.webp","mobile":"previews/hair-kk-detail-mobile-2830fb536084.webp","compact":"previews/hair-kk-detail-compact-721e1ff8ba6a.webp"},"eye-dual":{"desktop":"previews/eye-dual-detail-desktop-b577fb4160b3.webp","mobile":"previews/eye-dual-detail-mobile-e5b3699d61e0.webp","compact":"previews/eye-dual-detail-compact-b3ba979ad635.webp"},"eye-spring":{"desktop":"previews/eye-spring-detail-desktop-20de6de4938d.webp","mobile":"previews/eye-spring-detail-mobile-90a1bbcf3b11.webp","compact":"previews/eye-spring-detail-compact-bf140b033c8b.webp"},"stocking":{"desktop":"previews/stocking-detail-desktop-b91dd5593647.webp","mobile":"previews/stocking-detail-mobile-589387b4a408.webp","compact":"previews/stocking-detail-compact-849ce9f20819.webp"},"fur":{"desktop":"previews/fur-detail-desktop-5fbc3cbf8b8d.webp","mobile":"previews/fur-detail-mobile-9af15e0205b0.webp","compact":"previews/fur-detail-compact-70fab97b294f.webp"},"outline":{"desktop":"previews/outline-detail-desktop-981fbdb10aad.webp","mobile":"previews/outline-detail-mobile-d866503abca0.webp","compact":"previews/outline-detail-compact-1120f5dbd451.webp"},"glints":{"desktop":"previews/glints-detail-desktop-9031fa782a8f.webp","mobile":"previews/glints-detail-mobile-5655b2de7dfa.webp","compact":"previews/glints-detail-compact-f58467e1a839.webp"},"feather":{"desktop":"previews/feather-detail-desktop-2cadbcf3022f.webp","mobile":"previews/feather-detail-mobile-a193f5d83782.webp","compact":"previews/feather-detail-compact-2160a05181fd.webp"},"gem":{"desktop":"previews/gem-detail-desktop-aaddb8d69f6a.webp","mobile":"previews/gem-detail-mobile-f8f5397ba692.webp","compact":"previews/gem-detail-compact-2f1579cce4ad.webp"},"skin-preint":{"desktop":"previews/skin-preint-detail-desktop-a315cad699e1.webp","mobile":"previews/skin-preint-detail-mobile-dcd5378baf14.webp","compact":"previews/skin-preint-detail-compact-e2c881d8da34.webp"},"vat":{"desktop":"previews/vat-detail-desktop-454533527022.webp","mobile":"previews/vat-detail-mobile-1fefa3bb4da5.webp","compact":"previews/vat-detail-compact-34bbc70c3667.webp"},"aimmd-passes":{"desktop":"previews/aimmd-passes-detail-desktop-40ce0366b8cb.webp","mobile":"previews/aimmd-passes-detail-mobile-ba53b258ffbb.webp","compact":"previews/aimmd-passes-detail-compact-d9f400a4e428.webp"}};const id=location.hash.match(/^#lab\/([\w-]+)$/)?.[1];const v=p[id];if(!v)return;const l=document.createElement('link');l.rel='preload';l.as='image';l.fetchPriority='high';l.href=matchMedia('(max-width:1000px)').matches?v.mobile:matchMedia('(max-height:800px)').matches?v.compact:v.desktop;document.head.appendChild(l)})();</script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="description" content="王世明，技术美术（角色渲染）。实时着色器实验室：Ramp 光照、脸部 SDF、眼睛视差、闪点、薄片透射、平滑法线描边、VAT 流体等，每个效果都能逐步拆开查看公式与代码。">
@@ -16,8 +18,8 @@
       });
     }
   </script>
-  <script defer src="./app/index-k4EJ8-GK.js"></script>
-  <link rel="stylesheet" href="./app/style-CdcymSgB.css">
+  <script defer src="./app/index-PmEF6kFx.js"></script>
+  <link rel="stylesheet" href="./app/style-BxfCaVbI.css">
 </head>
 <body>
   <a class="skip" href="#lab">跳到实验室</a>
@@ -39,8 +41,8 @@
   <main id="main">
     <section class="hero" id="top" aria-labelledby="hero-title">
       <div class="hero-sticky">
-        <div class="hero-stage" id="hero-stage">
-          <img class="hero-fallback" src="media/gem-4.webp" alt="宝石材质渲染静帧">
+        <div class="hero-stage" id="hero-stage" data-render-state="loading" aria-busy="true">
+          <div class="hero-loading" role="status"><i class="render-spinner" aria-hidden="true"></i><span>正在准备宝石</span></div>
         </div>
         <div class="hero-copy">
           <h1 id="hero-title"><span class="line">从一束光，</span><span class="line">到完整的画面。</span></h1>
